@@ -36,6 +36,4 @@ https://www.kaggle.com/datasets/pradeepsapparapu/bengaluru-house-datacsv?select=
 
 ## Screenshot
 
-
-
-https://www.kaggle.com/datasets/pradeepsapparapu/bengaluru-house-datacsv?select=Bengaluru_House_Data.csv
+![Image](https://github.com/user-attachments/assets/c28944dc-63ae-4b2e-b051-53a4730cb3fc)
